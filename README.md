@@ -19,7 +19,7 @@ Mini Story Weaver is a simple command-line application that leverages the Google
 ## Project Structure
 
 ```
-MINI_STORY_WEAVER/
+MiniStoryWeaver/
 ├── .env                # Environment variables (e.g., GOOGLE_API_KEY)
 ├── .gitignore          # Specifies files/directories to ignore in Git
 ├── list_my_models.py   # Utility script to list available Gemini models
@@ -136,6 +136,4 @@ Edit `story_weaver.py` to tweak the generation behavior:
 
 - **Google Generative AI:** For the powerful Gemini models and SDK.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+---
